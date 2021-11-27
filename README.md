@@ -1,2 +1,2 @@
 # 9lives
-A open-source, legacy version of catsanctuary
+A legacy version of catsanctuary
